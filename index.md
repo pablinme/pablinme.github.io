@@ -1,6 +1,7 @@
 Hello all!)) My name is Pablo
 
 > I’m a software engineer from Quito, Ecuador.
+<img src="/images/cVGxZP6o8uQ.webp" alt="drawing" width="384" height="512"/>
 
 I love to read 📚 listen to music\podcasts 🎧 and drink coffee ☕️.
 
