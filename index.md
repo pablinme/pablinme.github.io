@@ -1,8 +1,6 @@
-Hello all!)) My name is Pablo
-
 <img src="/images/cVGxZP6o8uQ.webp" alt="drawing" width="384" height="512"/>
 
-> I’m a software engineer from Quito, Ecuador.
+> I’m Pablo, a software engineer from Quito, Ecuador.
 
 I love to read 📚 listen to music\podcasts 🎧 and drink coffee ☕️.
 
