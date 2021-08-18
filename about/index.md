@@ -1,14 +1,4 @@
 # About
-Hello all!)) My name is Pablo
-
-> I’m a software engineer from Quito, Ecuador.
-
-I love to read 📚 listen to music\podcasts 🎧 and drink coffee ☕️.
-
-- ♟️Like to play Chess even if it is online
-- 🏠 Currently living in Tomsk, Russia (Siberia)
-- 📖 Reading “Life Is What You Make It” by Peter Buffett
-
 I started off by playing around with the computer years ago (just before windows 3.1) then a bit serious with IBM’s manual and DOS, is quite interesting how focus can change in an instant.
 
 ![hocus pocus](https://pableins.com/images/hocus_pocus.jpg)
