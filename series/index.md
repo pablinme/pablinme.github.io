@@ -1,3 +1,6 @@
+# Series
+List of all blog series.
+
 ### [Multithreading](https://blog.pableins.com/series/threads-with-csharp)
 - [Event Reset](https://blog.pableins.com/event-reset)
 - [Arrays and Threads](https://blog.pableins.com/arrays-and-threads)
