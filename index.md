@@ -1,6 +1,6 @@
-<img src="/images/cVGxZP6o8uQ.webp" alt="drawing" width="384" height="512"/>
+![Pablo's github stats](https://github-readme-stats.vercel.app/api?username=pablinme&show_icons=true&count_private=true&hide=issues,prs)
 
-> I’m Pablo, a software engineer from Quito, Ecuador.
+> Software engineer from Quito, Ecuador.
 
 I love to read 📚 listen to music\podcasts 🎧 and drink coffee ☕️.
 
