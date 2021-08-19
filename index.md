@@ -1,8 +1,8 @@
 <a href="https://pableins.com">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pablinme&show_icons=true&count_private=true&hide=issues,prs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pablinme&show_icons=true&hide_rank=true&theme=dark&count_private=true&hide=issues,prs" />
 </a>
 <a href="https://pableins.com">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pablinme&count_private=true&hide=cmake" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pablinme&count_private=true&theme=dark&hide=cmake" />
 </a>
 
 > Software engineer from Quito, Ecuador.
