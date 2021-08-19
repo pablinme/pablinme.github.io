@@ -1,4 +1,6 @@
-# LU  Matrix Decomposition, Intrinsics
+# LU Matrix Decomposition, Intrinsics
+> From October 22, 2019
+
 In this case we go from the original matrix to its LU form using  [intrinsics](https://software.intel.com/sites/landingpage/IntrinsicsGuide/#!=undefined&techs=MMX).
 
 In the code you will find *commented* the equivalent line to the intrinsics one. For example
