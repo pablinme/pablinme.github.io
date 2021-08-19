@@ -1,4 +1,4 @@
-![Pablo's github stats](https://github-readme-stats.vercel.app/api?username=pablinme&show_icons=true&count_private=true&hide=issues,prs)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=pablinme&show_icons=true&count_private=true&hide=issues,prs" />
 
 > Software engineer from Quito, Ecuador.
 
