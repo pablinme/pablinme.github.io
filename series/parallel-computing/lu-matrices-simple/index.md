@@ -1,4 +1,6 @@
-## Matrix LU Decomposition
+# LU Matrix Decomposition
+> From October 18, 2019
+
 In this case lower-up decomposition, the matrix of factors ca be understood as the product of the **lower** *triangular matrix* and an **upper** *triangular matrix*. The permutation matrix is sometimes included in the product as well.
 
 ### L
