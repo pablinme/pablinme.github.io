@@ -1,6 +1,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=pablinme&show_icons=true&hide_rank=true&count_private=true&hide=issues,prs" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pablinme&count_private=true&hide=cmake" />
 
-> Software engineer from Quito, Ecuador.
+> Welcome!)) My name is Pablo and I am a software engineer from Quito 🇪🇨.
 
 I love to read 📚 listen to music\podcasts 🎧 and drink coffee ☕️.
 
