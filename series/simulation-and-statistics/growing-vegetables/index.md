@@ -16,12 +16,12 @@ The states of the cell should be as follows:
 *one should be able to control growth's speed.
 
 ## Initial Status
-![gv_0.png](./images/gv_0.png)
+![gv_0.png](https://github.com/pablinme/sim-growing-vegetables/blob/cbd7950539d83f35a9179237e1e0e7a8bc344e80/images/gv_0.png)
 
 ## Growing
-![gv_1.png](./images/gv_1.png)
+![gv_1.png](https://github.com/pablinme/sim-growing-vegetables/blob/cbd7950539d83f35a9179237e1e0e7a8bc344e80/images/gv_1.png)
 
-![gv_2.png](./images/gv_2.png)
+![gv_2.png](https://github.com/pablinme/sim-growing-vegetables/blob/cbd7950539d83f35a9179237e1e0e7a8bc344e80/images/gv_2.png)
 
 ## Implementation
 
