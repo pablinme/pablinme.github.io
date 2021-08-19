@@ -1,4 +1,6 @@
 # OpenCL
+> From October 02, 2019
+
 A simple example of parallel execution using OpenCL, which is an API that allows the execution of *tasks* on the **CPU** and **GPU**.
 
 In this example we cover the *square* function in the **kernel** while validating the results in the main function as well.
