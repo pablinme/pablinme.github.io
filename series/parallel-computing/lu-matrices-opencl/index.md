@@ -1,4 +1,6 @@
 # LU Matrix Decomposition, OpenCL
+> From October 10, 2019
+
 The program decompose the original matrix into LU matrices, using **OpenCL** and validating the results in the main function.
 
 ### Kernel
