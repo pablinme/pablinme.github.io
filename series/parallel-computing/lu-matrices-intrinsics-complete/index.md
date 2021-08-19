@@ -1,4 +1,6 @@
-#LU Matrix Decomposition, Intrinsics complete
+#LU Matrix Decomposition, Intrinsics Complete
+> From October 26, 2019
+
 To finish with OpenCL we can proceed and apply full intrinsics to our previous example and in each case is possible to keep track of execution time. Full intrinsics in this case covers **arithmetic operations** as well, so more *vectorized instructions* are used to replace more blocks of code.
 
 ```cpp
