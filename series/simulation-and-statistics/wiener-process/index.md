@@ -1,4 +1,8 @@
-# Wiener Process
+---
+layout: page
+title: Wiener Process
+permalink: /series/simulation-and-statistics/wiener-process/
+---
 > From June 22, 2020
 
 In a Wiener process w(t):
