@@ -1,4 +1,8 @@
-# Discrete Variables
+---
+layout: page
+title: Discrete Variables
+permalink: /series/simulation-and-statistics/discrete-variables/
+---
 > From May 21, 2020
 
 In order to verify the distribution's characteristics inside of the statistical processing of discrete random variables **RV** we have the following distribution:
