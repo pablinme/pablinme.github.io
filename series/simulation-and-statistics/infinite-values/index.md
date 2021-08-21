@@ -1,4 +1,8 @@
-# Infinite Values
+---
+layout: page
+title: Infinite Values
+permalink: /series/simulation-and-statistics/infinite-values/
+---
 > From June 04, 2020
 
 Applying the chi-square test for the case of discrete random variables with an infinite number of values `(m = ∞)`. In this case the distribution can be geometric or poisson's, an infinite number of intervals are used by grouping some of the values. The values are grouped on intervals as long as the probability's total do not exceed the probabilities of some other value, in general large values of **x** are used.
