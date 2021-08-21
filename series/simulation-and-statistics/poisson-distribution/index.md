@@ -1,4 +1,8 @@
-# Poisson Distribution
+---
+layout: page
+title: Poisson Distribution
+permalink: /series/simulation-and-statistics/poisson-distribution/
+---
 > From June 01, 2020
 
 The Poisson distribution represents the probability of the distribution of a number of events occurred in fixed interval of time, if this events happen independently and with a fixed constant mean defined by `λ`.
