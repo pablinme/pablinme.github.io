@@ -1,4 +1,8 @@
-# LU Matrix Decomposition, OpenCL
+---
+layout: page
+title: LU Matrix Decomposition, OpenCL
+permalink: /series/parallel-computing/lu-matrices-opencl/
+---
 > From October 10, 2019
 
 The program decompose the original matrix into LU matrices, using **OpenCL** and validating the results in the main function.
