@@ -1,4 +1,8 @@
-# OpenMP
+---
+layout: page
+title: OpenMP
+permalink: /series/parallel-computing/openmp/
+---
 > From October 12, 2019
 
 OpenMP is an API that allows to add concurrency to our programs wether they are written using C or C++, is composed by a set of compiler's directives for memory distributed systems.
