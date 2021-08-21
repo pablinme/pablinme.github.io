@@ -15,7 +15,7 @@ A thread generates a *tuple* with the following information:
 
 The thread pushes this numbers into the queue, and if is full awaits.
 
-{% highlight csharp %}
+```csharp
 using System;
 using System.Threading;
 using System.Collections.Generic;
@@ -204,4 +204,4 @@ namespace M1
         }
     }
 }
-{% endhighlight %}
+```
