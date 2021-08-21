@@ -5,7 +5,7 @@ permalink: /series/
 ---
 
 ### [Multithreading](./multithreading)
-How to use threads with C#.
+How to use threads on different scenarios with C#.
 - [Event Reset](./multithreading/event-reset)
 - [Arrays and Threads](./multithreading/arrays-and-threads)
 - [Matrices](./multithreading/matrices)
@@ -15,7 +15,7 @@ How to use threads with C#.
 ****
 
 ### [Parallel Computing](./parallel-computing)
-Parallel execution using OpenCL and OpenMP while also covering the use of intrinsics.
+Parallel execution using OpenCL and OpenMP, also covering the use of intrinsics.
 - [LU Matrix Decomposition](./parallel-computing/lu-matrices-simple)
 - [OpenCL](./parallel-computing/opencl)
 - [LU Matrix Decomposition, OpenCL](./parallel-computing/lu-matrices-opencl)
