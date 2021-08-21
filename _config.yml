@@ -7,8 +7,6 @@ description: >
   projects that I am working on at the moment
   and past projects as well.
 
-markdown: kramdown
-highlighter: rouge
 show_excerpts: true
 
 header_pages:
