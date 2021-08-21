@@ -1,4 +1,8 @@
-# Random Events
+---
+layout: page
+title: Random Events
+permalink: /series/simulation-and-statistics/random-events/
+---
 > From May 05, 2020
 
 Considering that an event `A` can occur with a probability `p=p(A)`.
