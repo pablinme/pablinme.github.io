@@ -10,7 +10,7 @@ Given the number of threads -at least 3 of them- them have to start working unti
 
 At first all threads start on a waiting state and work when signaled, this signal that indicates any thread to *work*  is triggered every second to a random thread.
 
-{% highlight csharp linenos %}
+```csharp
 using System;
 using System.Threading;
 using System.Collections.Generic;
@@ -106,4 +106,4 @@ namespace M1
         }
     }
 }
-{% endhighlight %}
+```
