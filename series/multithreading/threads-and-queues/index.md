@@ -1,4 +1,8 @@
-# Threads and Queues
+---
+layout: page
+title: Threads and Queues
+permalink: /series/multithreading/threads-and-queues/
+---
 >From September 23, 2019
 
 Now is time for a little mix between threads and queues, so the following will happen:
