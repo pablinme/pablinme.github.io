@@ -5,7 +5,7 @@ google_analytics: G-NZY6KN9459
 header_pages:
   - about.md
 
-show_excerpts: false
+show_excerpts: true
 
 minima:
   skin: dark
