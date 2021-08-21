@@ -1,4 +1,8 @@
-# Arrays and Threads
+---
+layout: page
+title: Arrays and Threads
+permalink: /series/multithreading/arrays-and-threads/
+---
 >From September 09, 2019
 
 ## Max and Min
