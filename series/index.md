@@ -1,5 +1,8 @@
-# Series
-List of all blog series.
+---
+layout: page
+title: Series
+permalink: /series/
+---
 
 ### [Multithreading](./multithreading)
 - [Event Reset](./multithreading/event-reset)
