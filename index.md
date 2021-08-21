@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-<div style="display: block;margin-left: auto;margin-right: auto;width: 80%;">
+<div style="display: block;margin-bottom:10px;margin-left: auto;margin-right: auto;width: 80%;">
 <img src="https://github-readme-stats.vercel.app/api?username=pablinme&show_icons=true&hide_rank=true&count_private=true&hide=issues,prs" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pablinme&count_private=true&hide=cmake&layout=compact" />
 </div>
 
