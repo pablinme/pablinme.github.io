@@ -1,4 +1,8 @@
-# Mutex groups and Tuples
+---
+layout: page
+title: Mutex groups and Tuples
+permalink: /series/multithreading/mutex-groups-and-tuples/
+---
 >From September 30, 2019
 
 ## Mutex
@@ -11,7 +15,7 @@ A thread generates a *tuple* with the following information:
 
 The thread pushes this numbers into the queue, and if is full awaits.
 
-```csharp
+{% highlight csharp %}
 using System;
 using System.Threading;
 using System.Collections.Generic;
@@ -200,4 +204,4 @@ namespace M1
         }
     }
 }
-```
+{% endhighlight %}
