@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=pablinme&show_icons=true&hide_rank=true&count_private=true&hide=issues,prs" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pablinme&count_private=true&hide=cmake" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=pablinme&show_icons=true&hide_rank=true&count_private=true&hide=issues,prs" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pablinme&count_private=true&hide=cmake&layout=compact" />
 
 > Welcome!)) My name is Pablo and I am a software engineer from Quito, Ecuador.
 
