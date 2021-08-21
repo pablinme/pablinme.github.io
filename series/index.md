@@ -3,7 +3,6 @@ layout: page
 title: Series
 permalink: /series/
 ---
-
 ### [Multithreading](./multithreading)
 How to use threads on different scenarios with C#.
 - [Event Reset](./multithreading/event-reset)
@@ -13,7 +12,6 @@ How to use threads on different scenarios with C#.
 - [Mutex groups and Tuples](./multithreading/mutex-groups-and-tuples)
 
 ****
-
 ### [Parallel Computing](./parallel-computing)
 Parallel execution using OpenCL and OpenMP, also covering the use of intrinsics.
 - [LU Matrix Decomposition](./parallel-computing/lu-matrices-simple)
@@ -25,7 +23,6 @@ Parallel execution using OpenCL and OpenMP, also covering the use of intrinsics.
 - [LU Matrix Decomposition, OpenMP](./parallel-computing/lu-matrices-openmp)
 
 ****
-
 ### [Simulation and Statistics](./simulation-and-statistics)
 Simulation and statistics concepts, implemented with C# and windows forms as well.
 - [Growing Vegetables](./simulation-and-statistics/growing-vegetables)
