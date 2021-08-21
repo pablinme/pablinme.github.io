@@ -1,4 +1,8 @@
-# Flight without atmosphere
+---
+layout: page
+title: Flight without atmosphere
+permalink: /series/simulation-and-statistics/flight-without-atmosphere/
+---
 > From March 11, 2020
 
 Given the following model we are going to simulate a flight trajectory without taking atmosphere into consideration
