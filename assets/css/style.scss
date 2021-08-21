@@ -5,8 +5,3 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
-
-@media screen and (min-width: 800px)
-style.css:1:3881.wrapper {
-  max-width: calc(1200px -(30px));
-}
