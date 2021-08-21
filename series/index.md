@@ -5,6 +5,7 @@ permalink: /series/
 ---
 
 ### [Multithreading](./multithreading)
+How to use threads with C#.
 - [Event Reset](./multithreading/event-reset)
 - [Arrays and Threads](./multithreading/arrays-and-threads)
 - [Matrices](./multithreading/matrices)
@@ -14,6 +15,7 @@ permalink: /series/
 ****
 
 ### [Parallel Computing](./parallel-computing)
+Parallel execution using OpenCL and OpenMP while also covering the use of intrinsics.
 - [LU Matrix Decomposition](./parallel-computing/lu-matrices-simple)
 - [OpenCL](./parallel-computing/opencl)
 - [LU Matrix Decomposition, OpenCL](./parallel-computing/lu-matrices-opencl)
@@ -25,6 +27,7 @@ permalink: /series/
 ****
 
 ### [Simulation and Statistics](./simulation-and-statistics)
+Simulation and statistics concepts, implemented with C# and windows forms as well.
 - [Growing Vegetables](./simulation-and-statistics/growing-vegetables)
 - [Flight without atmosphere](./simulation-and-statistics/flight-without-atmosphere)
 - [Flight with atmosphere](./simulation-and-statistics/flight-with-atmosphere)
