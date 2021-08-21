@@ -5,6 +5,7 @@ google_analytics: G-NZY6KN9459
 show_excerpts: true
 
 header_pages:
+  - blog.md
   - series/index.md
   - about.md
 
