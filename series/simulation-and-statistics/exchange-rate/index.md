@@ -1,4 +1,8 @@
-# Exchange Rate
+---
+layout: page
+title: Exchange Rate
+permalink: /series/simulation-and-statistics/exchange-rate/
+---
 > From March 25, 2020
 
 With the following stochastic-forecast model `C = C * (1 + k * (rand - 0.5))` we are going to simulate an exchange rate.
