@@ -10,6 +10,7 @@ description: >
 show_excerpts: true
 
 header_pages:
+  - series
   - about.md
 
 minima:
