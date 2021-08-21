@@ -1,4 +1,8 @@
-# Flight with atmosphere
+---
+layout: page
+title: Flight with atmosphere
+permalink: /series/simulation-and-statistics/flight-with-atmosphere/
+---
 > From March 18, 2020
 
 Given the following model we are going to simulate a flight trajectory taking atmosphere into consideration.
