@@ -1,3 +1,16 @@
 title: pableins.com
 remote_theme: jekyll/minima
 google_analytics: G-NZY6KN9459
+
+show_excerpts: false
+
+minima:
+  skin: dark
+  social_links:
+    github: pablinme
+    twitter: pablinme
+    telegram: pablinme
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag 
