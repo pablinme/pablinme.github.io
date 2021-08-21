@@ -15,10 +15,12 @@ I love to read 📚 listen to music\podcasts 🎧 and drink coffee ☕️.
 
 ****
 
+## [Timeline (polywork)](https://updates.pableins.com/)
+I have my timeline with most recent highlights
+
+****
+
 ## [Blog (hashnode)](https://blog.pableins.com/)
 I usually write about programming with Swift and C#
 
 ****
-
-## [Timeline (polywork)](https://updates.pableins.com/)
-I have my timeline with most recent highlights
