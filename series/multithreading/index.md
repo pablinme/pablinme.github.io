@@ -1,4 +1,9 @@
-# Multithreading
+---
+layout: page
+title: Multithreading
+permalink: /series/multithreading/
+---
+
 This series holds a collection of different scenarios on how to use threads with C#.
 
 ## Articles
