@@ -1,4 +1,8 @@
-# Event Reset
+---
+layout: page
+title: Event Reset
+permalink: /series/multithreading/event-reset/
+---
 > From September 02, 2019
 
 ## Signals
@@ -6,7 +10,7 @@ Given the number of threads -at least 3 of them- them have to start working unti
 
 At first all threads start on a waiting state and work when signaled, this signal that indicates any thread to *work*  is triggered every second to a random thread.
 
-```csharp
+{% highlight csharp linenos %}
 using System;
 using System.Threading;
 using System.Collections.Generic;
@@ -102,4 +106,4 @@ namespace M1
         }
     }
 }
-```
+{% endhighlight %}
