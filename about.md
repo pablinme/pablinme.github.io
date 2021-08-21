@@ -1,4 +1,9 @@
-# About
+---
+layout: page
+title: About
+permalink: /about/
+---
+
 I started off by playing around with the computer years ago (just before windows 3.1) then a bit serious with IBM’s manual and DOS, is quite interesting how focus can change in an instant.
 
 ![hocus pocus](https://pableins.com/images/hocus_pocus.jpg)
