@@ -1,4 +1,8 @@
-# Discrete Events
+---
+layout: page
+title: Discrete Events
+permalink: /series/simulation-and-statistics/discrete-events/
+---
 > From July 10, 2020
 
 In the simulation of Markov Chain on continuous time, the main idea is to pick the right time of the simulation in which transitions occur exactly at the moments in which changes on the system happen.
