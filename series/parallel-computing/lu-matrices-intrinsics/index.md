@@ -1,4 +1,8 @@
-# LU Matrix Decomposition, Intrinsics
+---
+layout: page
+title: LU Matrix Decomposition, Intrinsics
+permalink: /series/parallel-computing/lu-matrices-intrinsics/
+---
 > From October 22, 2019
 
 In this case we go from the original matrix to its LU form using  [intrinsics](https://software.intel.com/sites/landingpage/IntrinsicsGuide/#!=undefined&techs=MMX).
