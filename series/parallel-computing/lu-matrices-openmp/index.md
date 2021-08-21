@@ -1,4 +1,8 @@
-# LU Matrix Decomposition, OpenMP
+---
+layout: page
+title: LU Matrix Decomposition, OpenMP
+permalink: /series/parallel-computing/lu-matrices-openmp/
+---
 > From October 30, 2019
 
 ## OpenMP
