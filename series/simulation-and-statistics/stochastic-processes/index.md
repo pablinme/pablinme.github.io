@@ -9,7 +9,7 @@ In a system that can change its state, if we define the possible states as  `1, 
 
 The changes on the states will happen on discrete instants of time t<sub>1</sub>, t<sub>2</sub>, t<sub>3</sub>, ... This process of change in the system are called “Markov Chain” and satisfies the following property -Markov Chain main property- The *following state* in the process **depends only** on the *current state* and no other previous state.
 
-The transitions between states in Markov Chain are determined by a transition matrix P = || p<sub>ij</sub> ||
+The transitions between states in Markov Chain are determined by a transition matrix P = [ p<sub>ij</sub> ]
 
 ![pes_0.png](./images/pes_0.png)
 
