@@ -13,8 +13,8 @@ This model divides a heavy task in **k** threads by making subtasks and collecti
 In order to mark a *section of the code* to be executed in parallel the following directive is used:
 ```cpp
 #pragma omp parallel
-    {
-    }
+{
+}
 ```
 ---
 
