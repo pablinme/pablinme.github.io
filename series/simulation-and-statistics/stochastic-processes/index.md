@@ -1,4 +1,8 @@
-# Stochastic Processes
+---
+layout: page
+title: Stochastic Processes
+permalink: /series/simulation-and-statistics/stochastic-processes/
+---
 > From June 19, 2020
 
 In a system that can change its state, if we define the possible states as  `1, 2, 3, ... , n`. The states as X<sub>1</sub>, X<sub>2</sub>, X<sub>3</sub>, ... , X<sub>n</sub>.
