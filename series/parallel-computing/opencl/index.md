@@ -1,4 +1,8 @@
-# OpenCL
+---
+layout: page
+title: OpenCL
+permalink: /series/parallel-computing/opencl/
+---
 > From October 02, 2019
 
 A simple example of parallel execution using OpenCL, which is an API that allows the execution of *tasks* on the **CPU** and **GPU**.
