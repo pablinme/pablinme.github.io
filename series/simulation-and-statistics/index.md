@@ -3,7 +3,7 @@ layout: page
 title: Simulation and Statistics
 permalink: /series/simulation-and-statistics/
 ---
-In this series you will find some examples of simulation and statistics concepts, implemented with C# and windows forms as well.
+Simulation and statistics examples, implemented with C# and windows forms as well.
 
 ## Articles
 - [Growing Vegetables](./growing-vegetables)
