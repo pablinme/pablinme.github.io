@@ -1,4 +1,8 @@
-# Parallel Computing
+---
+layout: page
+title: Parallel Computing
+permalink: /series/parallel-computing/
+---
 This series focus on parallel execution using OpenCL and OpenMP while also covering the use of intrinsics.
 
 ## Articles
