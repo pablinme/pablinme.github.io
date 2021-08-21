@@ -1,4 +1,8 @@
-# Poisson Process
+---
+layout: page
+title: Poisson Process
+permalink: /series/simulation-and-statistics/poisson-process/
+---
 > From June 30, 2020
 
 ## Introduction
