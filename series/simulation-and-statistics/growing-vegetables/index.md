@@ -1,4 +1,8 @@
-# Growing Vegetables
+---
+layout: page
+title: Growing Vegetables
+permalink: /series/simulation-and-statistics/growing-vegetables/
+---
 > From March 04, 2020
 
 Given a 16 cells field (4x4)
