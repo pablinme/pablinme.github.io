@@ -1,4 +1,8 @@
-# Matrices
+---
+layout: page
+title: Matrices
+permalink: /series/multithreading/matrices/
+---
 >From September 16, 2019
 
 ## Matrix Multiplication
