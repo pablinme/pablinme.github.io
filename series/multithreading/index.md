@@ -4,7 +4,7 @@ title: Multithreading
 permalink: /series/multithreading/
 ---
 
-This series holds a collection of different scenarios on how to use threads with C#.
+How to use threads on different scenarios with C#.
 
 ## Articles
 - [Event Reset](./event-reset)
