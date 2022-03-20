@@ -200,6 +200,14 @@
 /**
  * Page content
  */
+.breadcrumb {
+  padding-left: 0px;
+}
+
+.breadcrumb-item {
+  display: inline;
+}
+
 .page-content {
   padding: $spacing-unit 0;
   flex: 1 0 auto;
