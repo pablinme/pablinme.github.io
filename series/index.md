@@ -2,6 +2,7 @@
 layout: page
 title: Series
 permalink: /series/
+categories: series
 ---
 
 ### [Swift](./swift)
