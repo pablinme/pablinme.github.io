@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Arrays and Threads
+title: Introduction
 permalink: /series/swift/introduction/
 ---
+
+<img src="../images/swift-introduction.png" width="200" height="200">
 
 Apple introduced Swift back in 2014 for the development of iOS, iPadOS and macOS applications. Swift continues to evolve long after its release as new features are added.
 
