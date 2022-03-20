@@ -7,6 +7,7 @@ permalink: /series/
 ### [Swift](./swift)
 Swift programming guide.
 
+****
 ### [Multithreading](./multithreading)
 How to use threads on different scenarios with C#.
 - [Event Reset](./multithreading/event-reset)
