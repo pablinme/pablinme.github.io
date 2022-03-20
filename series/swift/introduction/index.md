@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Introduction
-categories: series swift
 permalink: /series/swift/introduction/
 ---
 

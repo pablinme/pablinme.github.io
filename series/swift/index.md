@@ -2,7 +2,6 @@
 layout: page
 title: Swift Guide
 permalink: /series/swift/
-categories: series swift
 ---
 
 <img src="./images/swift-logo.png" width="200" height="200">
