@@ -32,6 +32,7 @@ var greeting = "Hello, playground"
 ```
 
 The playground loads as follows:
+
 <img src="./images/playground.png" width="536" height="431"> <br>
 On the left is the navigation area, that can be closed to make room for the Swift code editor and results on the right sidebar. The code in the editor is evaluated and run as the source code changes when possible.
 
