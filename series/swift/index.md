@@ -11,4 +11,5 @@ This guide is currently a work in progress, all content along with companion cod
 Code examples are meant to be for reference, it is better if you type them and experiment with them as you see fit, it helps with muscle memory as well. The best way to deeply understand code is to try and figure out what makes it work in the first place, so feel free to break it and keep learning.
 
 ## Table of contents
-- [Introduction](./introduction) - Before getting into Swift programming, prerequisites are covered and some helpful information as well.
+- [Introduction](./introduction) - Before getting into Swift programming, prerequisites are covered.
+- [Introduction to Xcode](./introduction-to-xcode) - Getting started with Xcode and running the first playground.
