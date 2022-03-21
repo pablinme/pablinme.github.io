@@ -10,10 +10,10 @@ Xcode is Apple’s integrated development environment (IDE) which consists of a 
 
 ***
 ## Getting Started
-<img src="./images/xcode-download.png" width="310" height="180">
+<img src="./images/xcode-download.png" width="776" height="451">
 Xcode can be downloaded from the Mac App Store or at Apple's developer portal, after its first launch Xcode's license agreement may appear which has to be agreed upon.
 
-<img src="./images/xcode-agreement.png" width="120" height="92">
+<img src="./images/xcode-agreement.png" width="602" height="460">
 At first is easier to start working with Playgrounds instead of full blown projects.
 
 ***
@@ -22,7 +22,7 @@ Xcode's playgrounds provide an interactive environment for developing and evalua
 
 When creating a **new playground** is possible to select between iOS and macOS templates, to begin with it can be either one as it makes no difference evaluating Swift code with standart libraries.
 
-<img src="./images/playground-templates.png" width="214" height="172">
+<img src="./images/playground-templates.png" width="536" height="444">
 
 After selecting the save location for the playground it should load with the code editor containing the sample code
 
@@ -34,7 +34,7 @@ var greeting = "Hello, playground"
 ```
 
 The playground loads as follows:
-<img src="./images/playground.png" width="214" height="172">
+<img src="./images/playground.png" width="536" height="431">
 
 On the left is the navigation area, that can be closed to make room for the Swift code editor and results on the right sidebar. The code in the editor is evaluated and run as the source code changes when possible.
 
@@ -78,7 +78,7 @@ In this case it can be noticed on the righthand side that **Hello, playground** 
 ## Running the Playground
 To start a playground there's a small "play button" on the lefthand next to the code, and it can execute the code up to a desired location, as you move the coursor notice that the play button follows so the code can be executed up to the selected line of code.
 
-<img src="./images/playground-run.png" width="214" height="172">
+<img src="./images/playground-run.png" width="536" height="431">
 
 After clicking the play button on the left of the statement
 
