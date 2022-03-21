@@ -4,7 +4,6 @@ title: Introduction to Programming
 permalink: /series/swift/introduction-to-programming/
 ---
 
-<img src="./images/thumbnail.png" width="200" height="200"> <br>
 Generally computer programming is the process of computing a result by building an executable program, the process itself is finite and most times involves working with imput data to get a result in the form of output data.
 
 ***
