@@ -69,11 +69,11 @@ var greeting = "Hello, playground"
 let fixed_greeting = "Hello, consant playground"
 ```
 
-In this case it can be noticed on the righthand side that **Hello, playground** is between quotation marks, which indicates an **String**, an order collection of characters. Variables should have meaningful names, just take notice that Swift reserves some words for its own use, as seen on the example **var** and **let** are keywords used to declare *variable* and *constants* respectively.
+In this case it can be noticed on the righthand side that **Hello, playground** is between quotation marks, which indicates an **String**, an ordered collection of characters. Variables should have meaningful names, just take notice that Swift reserves some words for its own use, as seen on the example **var** and **let** are keywords used to declare *variable* and *constants* respectively.
 
 ***
 ## Running the Playground
-To start a playground there's a small "play button" on the lefthand next to the code, and it can execute the code up to a desired location, as you move the coursor notice that the play button follows so the code can be executed up to the selected line of code.
+To start a playground there's a small "play button" on the lefthand next to the code, and it can execute the code up to a desired location, as you move the cursor notice that the play button follows so the code can be executed up to the selected line of code.
 
 <img src="./images/playground-run.png" width="536" height="431"> <br>
 After clicking the play button on the left of the statement
