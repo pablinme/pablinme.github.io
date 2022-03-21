@@ -12,4 +12,5 @@ Code examples are meant to be for reference, it is better if you type them and e
 
 ## Table of contents
 - [Introduction](./introduction) - Before getting into Swift programming, prerequisites and basic concepts are covered.
+- [Introduction to Programming](./introduction-to-programming) - Programming introduction covering algortihms and basic concepts.
 - [Introduction to Xcode](./introduction-to-xcode) - Getting started with Xcode installation, and running the first playground.

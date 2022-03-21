@@ -4,8 +4,7 @@ title: Introduction
 permalink: /series/swift/introduction/
 ---
 
-<img src="../images/swift-introduction.png" width="200" height="200">
-
+<img src="./images/thumbnail.png" width="200" height="200"> <br>
 Apple introduced Swift back in 2014 for the development of iOS, iPadOS and macOS applications. Swift continues to evolve long after its release as new features are added.
 
 ***
@@ -34,4 +33,4 @@ This guide was written for beginners who may not have any experience on programm
             
 For more experienced developers, this guide can be helpful as introduction to Swift programming language, so feel free to skim through the contents and focus on what may not seem familiar
 
-**Next** [Introduction to Xcode](../introduction-to-xcode/)
+**Next** [Introduction to Programming](../introduction-to-programming/)

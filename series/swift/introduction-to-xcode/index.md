@@ -4,7 +4,7 @@ title: Introduction to Xcode
 permalink: /series/swift/introduction-to-xcode/
 ---
 
-<img src="../images/swift-intro-xcode.png" width="200" height="200"> <br>
+<img src="../images/thumbnail.png" width="200" height="200"> <br>
 Xcode is Apple’s integrated development environment (IDE) which consists of a suite of tools that developers use to build apps for Apple platforms.
 
 ***
@@ -110,4 +110,4 @@ it can be put along multiple lines
 */
 ```
 
-**Previous** [Introduction](../introduction/)
+**Previous** [Introduction to Programming](../introduction-to-programming/)
