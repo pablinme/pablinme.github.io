@@ -4,7 +4,7 @@ title: Introduction to Xcode
 permalink: /series/swift/introduction-to-xcode/
 ---
 
-Xcode is Apple’s integrated development environment (IDE) which consists of a suite of tools that developers use to build apps for Apple platforms.
+Xcode is Apple’s integrated development environment (IDE) which consists of a suite of tools that developers use to build applications for Apple platform.
 
 ***
 ## Getting Started
@@ -18,7 +18,7 @@ At first is easier to start working with Playgrounds instead of full blown proje
 ## Playgrounds
 Xcode's playgrounds provide an interactive environment for developing and evaluating Swift code on the fly, playgrounds don't need to be compiled and run as a complete project since code is evaluated on the fly, so it becomes handy for experimenting, testing and prototyping.
 
-When creating a **new playground** is possible to select between iOS and macOS templates, to begin with it can be either one as it makes no difference evaluating Swift code with standart libraries.
+When creating a **new playground** is possible to select between iOS and macOS templates, to begin with it can be either one as it makes no difference evaluating Swift code with standard libraries.
 
 <img src="./images/playground-templates.png" width="536" height="444"> <br>
 After selecting the save location for the playground it should load with the code editor containing the sample code
