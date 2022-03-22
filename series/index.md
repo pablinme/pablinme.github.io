@@ -4,10 +4,6 @@ title: Series
 permalink: /series/
 ---
 
-### [Swift](./swift)
-Swift programming language guide for beginners.
-
-****
 ### [Multithreading](./multithreading)
 How to use threads on different scenarios with C#.
 - [Event Reset](./multithreading/event-reset)
