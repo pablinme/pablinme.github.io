@@ -12,8 +12,8 @@ layout: home
 ## About Me:
 - 👨🏻‍💻 Working on personal projects
 - 💫 Enjoy playing with Swift and C#
-- 🏠 Currently living in Tomsk, Russia (Siberia)
-- I love to read 📚 listen to music\podcasts 🎧 and drink coffee ☕️.
+- 🏠 Currently living in Quito, Ecuador
+- I love to read 📚 listen to music\podcasts 🎧 and drink coffee ☕️
 
 ****
 
