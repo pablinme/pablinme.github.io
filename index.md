@@ -11,9 +11,9 @@ layout: home
 I am a software engineer from Quito, Ecuador.
 
 ## About Me:
-- 👨🏻‍💻 Working on personal projects 💫 Swift • C#
+👨🏻‍💻 Working on personal projects 💫 Swift • C#
 
-🏠 Quito, Ecuador || Books 📚 • Music\Podcasts 🎧 • Coffee ☕️
+🏠 Quito, Ecuador • Books 📚 • Music\Podcasts 🎧
 
 ****
 
