@@ -10,14 +10,10 @@ layout: home
 > Welcome!)) My name is Pablo and I am a software engineer from Quito, Ecuador.
 
 ## About Me:
-- 👨🏻‍💻 Working on personal projects
-- 💫 Enjoy playing with Swift and C#
-- 🏠 Currently living in Quito, Ecuador
-- I love to read 📚 listen to music\podcasts 🎧 and drink coffee ☕️
+- 👨🏻‍💻 Working on personal projects 💫 Swift • C#
+- 🏠 Quito, Ecuador || [Books 📚] • [Music\Podcasts 🎧] • [Coffee ☕️]
 
 ****
 
-## [Timeline (polywork)](https://updates.pableins.com/)
-I have my timeline with most recent highlights
 
-****
+[Polywork](https://www.polywork.com/pablinme) • [LinkedIn](https://www.linkedin.com/in/pablinme/) • [GitHub](https://github.com/pablinme) • [Twitter](https://twitter.com/pablinme)

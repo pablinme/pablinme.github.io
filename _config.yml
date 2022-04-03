@@ -11,11 +11,6 @@ header_pages:
 
 minima:
   skin: dark
-  
-  social_links:
-    github: pablinme
-    twitter: pablinme
-    linkedin: pablinme
 
 plugins:
  - jekyll-feed
