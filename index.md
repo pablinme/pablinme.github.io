@@ -21,3 +21,5 @@ layout: home
 I have my timeline with most recent highlights
 
 ****
+
+[LinkedIn](https://www.linkedin.com/in/pablinme/) • [Twitter]()

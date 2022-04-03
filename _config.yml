@@ -15,6 +15,7 @@ minima:
   social_links:
     github: pablinme
     twitter: pablinme
+    linkedin: pablinme
 
 plugins:
  - jekyll-feed
