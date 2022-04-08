@@ -7,15 +7,9 @@ layout: home
 </div>
 -->
 
-## Hello, I'm Pablo
-I am a software engineer from Quito, Ecuador.
-
-## About Me:
-Usually work with Swift and C#
-
-Enjoy Books • Music • Podcasts
+## Hello, I'm Pablo.
+I am a software engineer from Quito, Ecuador. I usually work with Swift, C# and enjoy Books • Music • Podcasts
 
 ****
-
 
 [Polywork](https://www.polywork.com/pablinme) • [LinkedIn](https://www.linkedin.com/in/pablinme/) • [GitHub](https://github.com/pablinme) • [Twitter](https://twitter.com/pablinme)
