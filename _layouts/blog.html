@@ -28,7 +28,7 @@ layout: default
             {{ post.title | escape }}
           </a>
         </h3>
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <span class="post-meta">Posted on {{ post.date | date: date_format }}</span>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
