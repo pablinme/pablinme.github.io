@@ -2,7 +2,6 @@
 layout: home
 ---
 
-## Series' Archive
 ### [Multithreading](./series/multithreading)
 How to use threads on different scenarios with C#.
 - [Event Reset](./series/multithreading/event-reset)
