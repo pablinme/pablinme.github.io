@@ -3,9 +3,6 @@ remote_theme: jekyll/minima
 
 show_excerpts: true
 
-header_pages:
-  - series/index.md
-
 minima:
   skin: dark
 
