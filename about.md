@@ -6,7 +6,7 @@ permalink: /about/
 
 I always thought that it all started back when I used to play around with the computer (just before windows 3.1) then a bit serious with IBM’s manual and DOS, is quite interesting how focus can change in an instant.
 
-![hocus pocus](https://pableins.com/images/hocus_pocus.jpg)
+![hocus pocus](./images/hocus_pocus.jpg)
 
 I remember that I wanted to install a game -Hocus Pocus- but run into an error (zipped file) and it was the first time in which I had to do such thing since it was always direct install from floppy. So I got introduced to ‘pkunzip’ -if I remember correctly- and after that I started wondering:
 
