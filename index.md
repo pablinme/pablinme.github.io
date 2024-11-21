@@ -10,4 +10,4 @@ layout: home
 ## Hello, I'm Pablo.
 I am a software engineer from Quito, Ecuador. I usually work with Swift, C# and enjoy Books • Music • Podcasts
 
-[Polywork](https://www.polywork.com/pablinme) • [LinkedIn](https://www.linkedin.com/in/pablinme/) • [GitHub](https://github.com/pablinme) • [Twitter](https://twitter.com/pablinme) • [DEV Community](https://dev.to/pablinme/)
+ • [LinkedIn](https://www.linkedin.com/in/pablinme/) • [GitHub](https://github.com/pablinme) • [Twitter](https://twitter.com/pablinme) • [DEV Community](https://dev.to/pablinme/)
